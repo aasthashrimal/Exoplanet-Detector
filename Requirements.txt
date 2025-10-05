@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+xgboost # If your pipeline uses XGBoost directly
+matplotlib
+seaborn
